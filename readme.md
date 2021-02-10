@@ -25,10 +25,10 @@ From an article in [AnalyticsVidya](https://www.analyticsvidhya.com/blog/2019/09
 The basic concepts you'll need using seaborn for basic data visualisations are organised in the following chapters:
 
    1. [Introduction to Seaborn](https://github.com/colintwh/visualisation/blob/master/introseaborn.ipynb)
-   2. [Line Charts](https://github.com/colintwh/visualisation/blob/master/linechart.ipynb)
-   3. Bar Charts and Heatmaps
-   4. Scatter Plots
-   5. Distributions
+   2. [Line Charts](https://github.com/colintwh/visualisation/blob/master/linecharts.ipynb)
+   3. [Bar Charts and Heatmaps](https://github.com/colintwh/visualisation/blob/master/barcharts_heatmaps.ipynb)
+   4. [Scatter Plots](https://github.com/colintwh/visualisation/blob/master/scatterplots.ipynb)
+   5. [Distributions](https://github.com/colintwh/visualisation/blob/master/distplots.ipynb)
    6. Choosing Plot Types and Custom Styles
    
 
