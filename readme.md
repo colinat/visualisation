@@ -28,7 +28,7 @@ The basic concepts you'll need using seaborn for basic data visualisations are o
    2. [Line Charts](https://github.com/colintwh/visualisation/blob/master/linecharts.ipynb)
    3. [Bar Charts and Heatmaps](https://github.com/colintwh/visualisation/blob/master/barcharts_heatmaps.ipynb)
    4. [Scatter Plots](https://github.com/colintwh/visualisation/blob/master/scatterplots.ipynb)
-   5. [Distributions](https://github.com/colintwh/visualisation/blob/master/distplots.ipynb)
+   5. [Distributions](https://github.com/colintwh/visualisation/blob/master/distributions.ipynb)
    6. [Choosing Plot Types and Custom Styles](https://github.com/colintwh/visualisation/blob/master/chooseplots.ipynb)
    
 
